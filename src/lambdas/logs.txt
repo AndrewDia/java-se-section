@@ -1,0 +1,33 @@
+    Lesson 1
+Custom object walking...
+Custom object walking...
+the object tripped...
+
+    Lesson 2
+Hello there!
+10
+2
+elcihev
+3628800
+
+    Lesson 3
+Printing cars between price 18000 and 22000
+Car{make='Mitsubishi', model='Lancer', colour='White', price=20000}
+Printing cars that are blue
+Car{make='Honda', model='Civic', colour='Blue', price=17700}
+Car{make='Toyota', model='Camry', colour='Blue', price=24000}
+price = 22300 colour = Red
+
+    Lesson 4
+123456789
+6789
+10
+Africa
+tent, toothpaste, toy,
+44.0
+car, computer,
+Bitcoin, Computer Application, Dry Cleaner, Education, Health Insurance, Keyboard, Powerade, Samantha, White Board,
+Samantha, Health Insurance,
+3 good rows.
+APPL 145 422
+AMZN 690 849

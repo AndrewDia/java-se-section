@@ -1,0 +1,1241 @@
+    Lesson 1
+hello there...
+number: 0
+number: 1
+number: 2
+number: 3
+number: 4
+number: 5
+number: 6
+number: 7
+number: 8
+number: 9
+number: 10
+number: 11
+number: 12
+number: 13
+number: 14
+number: 15
+number: 16
+number: 17
+number: 18
+number: 19
+number: 20
+number: 21
+number: 22
+number: 23
+number: 24
+number: 25
+number: 26
+number: 27
+number: 28
+number: 29
+number: 30
+number: 31
+number: 32
+number: 0
+number: 1
+number: 2
+number: 3
+number: 4
+number: 5
+number: 6
+number: 7
+number: 8
+number: 9
+number: 10
+number: 11
+number: 12
+number: 13
+number: 14
+number: 15
+number: 16
+number: 17
+number: 18
+number: 19
+number: 20
+number: 21
+number: 22
+number: 23
+number: 24
+number: 25
+number: 26
+number: 27
+number: 28
+number: 29
+number: 30
+number: 31
+number: 32
+number: 33
+number: 34
+number: 35
+number: 36
+number: 37
+number: 38
+number: 39
+number: 40
+number: 41
+number: 42
+number: 43
+number: 44
+number: 45
+number: 46
+number: 47
+number: 48
+number: 49
+number: 50
+number: 33
+number: 34
+number: 35
+number: 36
+number: 37
+number: 38
+number: 51
+number: 39
+number: 52
+number: 40
+number: 53
+number: 41
+number: 54
+number: 42
+number: 55
+number: 43
+number: 56
+number: 44
+number: 57
+number: 58
+number: 59
+number: 60
+number: 61
+number: 62
+number: 63
+number: 64
+number: 65
+number: 66
+number: 67
+number: 68
+number: 45
+number: 69
+number: 46
+number: 70
+number: 71
+number: 72
+number: 73
+number: 74
+number: 47
+number: 75
+number: 48
+number: 76
+number: 77
+number: 78
+number: 79
+number: 80
+number: 81
+number: 82
+number: 49
+number: 83
+number: 50
+number: 84
+number: 51
+number: 85
+number: 86
+number: 87
+number: 88
+number: 89
+number: 90
+number: 91
+number: 92
+number: 93
+number: 94
+number: 95
+number: 96
+number: 97
+number: 98
+number: 99
+number: 52
+number: 53
+number: 54
+number: 55
+number: 56
+number: 57
+number: 58
+number: 59
+number: 60
+number: 61
+number: 62
+number: 63
+number: 64
+number: 65
+number: 66
+number: 67
+number: 68
+number: 69
+number: 70
+number: 71
+number: 72
+number: 73
+number: 74
+number: 75
+number: 76
+number: 77
+number: 78
+number: 79
+number: 80
+number: 81
+number: 82
+number: 83
+number: 84
+number: 85
+number: 86
+number: 87
+number: 88
+number: 89
+number: 90
+number: 91
+number: 92
+number: 93
+number: 94
+number: 95
+number: 96
+number: 97
+number: 98
+number: 99
+
+    Lesson 2
+Starting Thread 1
+Starting Thread 2
+number: 0 - Thread-A
+number: 0 - Thread-B
+number: 1 - Thread-A
+number: 1 - Thread-B
+number: 2 - Thread-A
+number: 2 - Thread-B
+number: 3 - Thread-A
+number: 3 - Thread-B
+number: 4 - Thread-A
+number: 4 - Thread-B
+number: 5 - Thread-A
+number: 6 - Thread-A
+number: 5 - Thread-B
+number: 7 - Thread-A
+number: 6 - Thread-B
+number: 8 - Thread-A
+number: 7 - Thread-B
+number: 9 - Thread-A
+number: 8 - Thread-B
+number: 9 - Thread-B
+
+    Lesson 3
+Without synchronization
+Thread-0 got value: 1
+Thread-1 got value: 2
+Thread-0 got value: 3
+Thread-1 got value: 4
+Thread-1 got value: 5
+Thread-0 got value: 6
+Thread-1 got value: 7
+Thread-0 got value: 8
+Thread-1 got value: 9
+Thread-0 got value: 10
+Thread-0 got value: 11
+Thread-1 got value: 12
+Thread-0 got value: 13
+Thread-1 got value: 14
+Thread-0 got value: 15
+Thread-1 got value: 15
+Thread-1 got value: 16
+Thread-0 got value: 17
+Thread-1 got value: 18
+Thread-0 got value: 19
+Thread-1 got value: 20
+Thread-0 got value: 21
+Thread-1 got value: 22
+Thread-0 got value: 23
+Thread-1 got value: 24
+Thread-0 got value: 25
+Thread-1 got value: 26
+Thread-0 got value: 27
+Thread-1 got value: 28
+Thread-0 got value: 29
+Thread-1 got value: 30
+Thread-0 got value: 31
+Thread-0 got value: 32
+Thread-1 got value: 33
+Thread-0 got value: 34
+Thread-1 got value: 35
+Thread-0 got value: 36
+Thread-1 got value: 37
+Thread-0 got value: 38
+Thread-1 got value: 39
+Thread-0 got value: 40
+Thread-1 got value: 41
+Thread-0 got value: 42
+Thread-1 got value: 43
+Thread-0 got value: 44
+Thread-1 got value: 45
+Thread-0 got value: 46
+Thread-1 got value: 47
+Thread-0 got value: 48
+Thread-1 got value: 49
+Thread-0 got value: 50
+Thread-1 got value: 51
+Thread-0 got value: 52
+Thread-1 got value: 53
+Thread-0 got value: 54
+Thread-1 got value: 55
+Thread-1 got value: 56
+Thread-0 got value: 57
+Thread-1 got value: 58
+Thread-0 got value: 59
+Thread-1 got value: 60
+Thread-0 got value: 61
+Thread-1 got value: 62
+Thread-0 got value: 63
+Thread-1 got value: 64
+Thread-0 got value: 65
+Thread-1 got value: 66
+Thread-0 got value: 67
+Thread-1 got value: 68
+Thread-0 got value: 69
+Thread-1 got value: 70
+Thread-0 got value: 71
+Thread-1 got value: 72
+Thread-0 got value: 73
+Thread-1 got value: 74
+Thread-0 got value: 75
+Thread-1 got value: 76
+Thread-0 got value: 77
+Thread-1 got value: 78
+Thread-0 got value: 79
+Thread-1 got value: 80
+Thread-0 got value: 81
+Thread-1 got value: 82
+Thread-0 got value: 83
+Thread-1 got value: 84
+Thread-0 got value: 85
+Thread-1 got value: 86
+Thread-0 got value: 87
+Thread-0 got value: 88
+Thread-1 got value: 88
+Thread-0 got value: 89
+Thread-1 got value: 90
+Thread-0 got value: 91
+Thread-1 got value: 92
+Thread-0 got value: 93
+Thread-1 got value: 94
+Thread-1 got value: 95
+Thread-0 got value: 95
+Thread-1 got value: 96
+Thread-0 got value: 96
+Thread-0 got value: 97
+Thread-1 got value: 97
+Thread-0 got value: 98
+Thread-1 got value: 98
+Thread-1 got value: 99
+Thread-0 got value: 100
+Thread-1 got value: 101
+Thread-0 got value: 102
+Thread-0 got value: 103
+Thread-1 got value: 104
+Thread-1 got value: 106
+Thread-0 got value: 105
+Thread-1 got value: 107
+Thread-0 got value: 108
+Thread-1 got value: 109
+Thread-0 got value: 110
+Thread-1 got value: 111
+Thread-0 got value: 112
+Thread-1 got value: 113
+Thread-0 got value: 114
+Thread-0 got value: 115
+Thread-1 got value: 116
+Thread-0 got value: 117
+Thread-1 got value: 118
+Thread-1 got value: 119
+Thread-0 got value: 120
+Thread-0 got value: 121
+Thread-1 got value: 122
+Thread-0 got value: 123
+Thread-1 got value: 124
+Thread-0 got value: 125
+Thread-1 got value: 126
+Thread-1 got value: 127
+Thread-0 got value: 128
+Thread-0 got value: 129
+Thread-1 got value: 130
+Thread-0 got value: 131
+Thread-1 got value: 132
+Thread-0 got value: 133
+Thread-1 got value: 134
+Thread-0 got value: 135
+Thread-1 got value: 136
+Thread-0 got value: 137
+Thread-1 got value: 138
+Thread-0 got value: 139
+Thread-1 got value: 140
+Thread-1 got value: 141
+Thread-0 got value: 142
+Thread-1 got value: 143
+Thread-0 got value: 144
+Thread-0 got value: 145
+Thread-1 got value: 146
+Thread-0 got value: 147
+Thread-1 got value: 148
+Thread-1 got value: 149
+Thread-0 got value: 150
+Thread-1 got value: 151
+Thread-0 got value: 152
+Thread-1 got value: 153
+Thread-0 got value: 154
+Thread-0 got value: 156
+Thread-1 got value: 155
+Thread-0 got value: 157
+Thread-1 got value: 157
+Thread-1 got value: 159
+Thread-0 got value: 158
+Thread-0 got value: 160
+Thread-1 got value: 161
+Thread-1 got value: 162
+Thread-0 got value: 163
+Thread-0 got value: 164
+Thread-1 got value: 165
+Thread-0 got value: 166
+Thread-1 got value: 167
+Thread-0 got value: 168
+Thread-1 got value: 169
+Thread-1 got value: 170
+Thread-0 got value: 171
+Thread-1 got value: 172
+Thread-0 got value: 173
+Thread-0 got value: 174
+Thread-1 got value: 175
+Thread-0 got value: 176
+Thread-1 got value: 177
+Thread-0 got value: 178
+Thread-1 got value: 179
+Thread-0 got value: 180
+Thread-1 got value: 181
+Thread-0 got value: 182
+Thread-1 got value: 183
+Thread-0 got value: 184
+Thread-1 got value: 185
+Thread-0 got value: 186
+Thread-1 got value: 187
+Thread-0 got value: 188
+Thread-1 got value: 189
+Thread-0 got value: 190
+Thread-1 got value: 191
+Thread-0 got value: 192
+Thread-1 got value: 193
+With synchronization
+Thread-2 got value: 1
+Thread-3 got value: 2
+Thread-3 got value: 3
+Thread-2 got value: 4
+Thread-2 got value: 6
+Thread-3 got value: 5
+Thread-3 got value: 7
+Thread-2 got value: 8
+Thread-3 got value: 9
+Thread-2 got value: 10
+Thread-2 got value: 11
+Thread-3 got value: 12
+Thread-3 got value: 13
+Thread-2 got value: 14
+Thread-2 got value: 15
+Thread-3 got value: 16
+Thread-2 got value: 18
+Thread-3 got value: 17
+Thread-3 got value: 19
+Thread-2 got value: 20
+Thread-2 got value: 22
+Thread-3 got value: 21
+Thread-2 got value: 23
+Thread-3 got value: 24
+Thread-2 got value: 26
+Thread-3 got value: 25
+Thread-3 got value: 27
+Thread-2 got value: 28
+Thread-3 got value: 29
+Thread-2 got value: 30
+Thread-2 got value: 31
+Thread-3 got value: 32
+Thread-3 got value: 33
+Thread-2 got value: 34
+Thread-2 got value: 35
+Thread-3 got value: 36
+Thread-2 got value: 37
+Thread-3 got value: 38
+Thread-2 got value: 40
+Thread-3 got value: 39
+Thread-2 got value: 42
+Thread-3 got value: 41
+Thread-3 got value: 43
+Thread-2 got value: 44
+Thread-2 got value: 45
+Thread-3 got value: 46
+Thread-2 got value: 47
+Thread-3 got value: 48
+Thread-2 got value: 49
+Thread-3 got value: 50
+Thread-3 got value: 51
+Thread-2 got value: 52
+Thread-2 got value: 53
+Thread-3 got value: 54
+Thread-2 got value: 55
+Thread-3 got value: 56
+Thread-2 got value: 57
+Thread-3 got value: 58
+Thread-2 got value: 59
+Thread-3 got value: 60
+Thread-2 got value: 61
+Thread-3 got value: 62
+Thread-2 got value: 63
+Thread-3 got value: 64
+Thread-2 got value: 65
+Thread-3 got value: 66
+Thread-2 got value: 67
+Thread-3 got value: 68
+Thread-2 got value: 69
+Thread-3 got value: 70
+Thread-2 got value: 71
+Thread-3 got value: 72
+Thread-2 got value: 73
+Thread-3 got value: 74
+Thread-2 got value: 75
+Thread-3 got value: 76
+Thread-2 got value: 77
+Thread-3 got value: 78
+Thread-2 got value: 79
+Thread-3 got value: 80
+Thread-2 got value: 81
+Thread-3 got value: 82
+Thread-2 got value: 83
+Thread-3 got value: 84
+Thread-2 got value: 85
+Thread-3 got value: 86
+Thread-2 got value: 87
+Thread-3 got value: 88
+Thread-2 got value: 89
+Thread-3 got value: 90
+Thread-2 got value: 91
+Thread-3 got value: 92
+Thread-2 got value: 93
+Thread-3 got value: 94
+Thread-2 got value: 95
+Thread-3 got value: 96
+Thread-2 got value: 97
+Thread-3 got value: 98
+Thread-2 got value: 99
+Thread-3 got value: 100
+Thread-2 got value: 101
+Thread-3 got value: 102
+Thread-2 got value: 103
+Thread-3 got value: 104
+Thread-2 got value: 105
+Thread-3 got value: 106
+Thread-2 got value: 107
+Thread-3 got value: 108
+Thread-2 got value: 109
+Thread-3 got value: 110
+Thread-2 got value: 111
+Thread-3 got value: 112
+Thread-2 got value: 113
+Thread-3 got value: 114
+Thread-2 got value: 115
+Thread-3 got value: 116
+Thread-2 got value: 117
+Thread-3 got value: 118
+Thread-2 got value: 119
+Thread-3 got value: 120
+Thread-2 got value: 121
+Thread-3 got value: 122
+Thread-2 got value: 123
+Thread-3 got value: 124
+Thread-2 got value: 125
+Thread-3 got value: 126
+Thread-2 got value: 127
+Thread-3 got value: 128
+Thread-2 got value: 129
+Thread-3 got value: 130
+Thread-2 got value: 131
+Thread-3 got value: 132
+Thread-2 got value: 133
+Thread-3 got value: 134
+Thread-2 got value: 135
+Thread-3 got value: 136
+Thread-2 got value: 137
+Thread-3 got value: 138
+Thread-2 got value: 139
+Thread-3 got value: 140
+Thread-2 got value: 141
+Thread-3 got value: 142
+Thread-2 got value: 143
+Thread-3 got value: 144
+Thread-2 got value: 145
+Thread-3 got value: 146
+Thread-2 got value: 147
+Thread-3 got value: 148
+Thread-2 got value: 149
+Thread-3 got value: 150
+Thread-2 got value: 151
+Thread-3 got value: 152
+Thread-2 got value: 153
+Thread-3 got value: 154
+Thread-2 got value: 155
+Thread-3 got value: 156
+Thread-2 got value: 157
+Thread-3 got value: 158
+Thread-2 got value: 159
+Thread-3 got value: 160
+Thread-2 got value: 161
+Thread-3 got value: 162
+Thread-2 got value: 163
+Thread-3 got value: 164
+Thread-2 got value: 165
+Thread-3 got value: 166
+Thread-2 got value: 167
+Thread-3 got value: 168
+Thread-2 got value: 169
+Thread-3 got value: 170
+Thread-2 got value: 171
+Thread-3 got value: 172
+Thread-2 got value: 173
+Thread-3 got value: 174
+Thread-2 got value: 175
+Thread-3 got value: 176
+Thread-2 got value: 177
+Thread-3 got value: 178
+Thread-2 got value: 179
+Thread-3 got value: 180
+Thread-2 got value: 181
+Thread-3 got value: 182
+Thread-2 got value: 183
+Thread-3 got value: 184
+Thread-2 got value: 185
+Thread-3 got value: 186
+Thread-2 got value: 187
+Thread-3 got value: 188
+Thread-2 got value: 189
+Thread-3 got value: 190
+Thread-2 got value: 191
+Thread-3 got value: 192
+Thread-2 got value: 193
+Thread-3 got value: 194
+Thread-2 got value: 195
+Thread-3 got value: 196
+Thread-2 got value: 197
+Thread-3 got value: 198
+Thread-2 got value: 199
+Thread-3 got value: 200
+
+    Lesson 4
+ADDED: id: 0 | name: test_product_0
+ADDED: id: 1 | name: test_product_1
+ADDED: id: 2 | name: test_product_2
+ADDED: id: 3 | name: test_product_3
+ADDED: id: 4 | name: test_product_4
+ADDED: id: 5 | name: test_product_5
+ADDED: id: 6 | name: test_product_6
+ADDED: id: 7 | name: test_product_7
+ADDED: id: 8 | name: test_product_8
+ADDED: id: 9 | name: test_product_9
+ADDED: id: 10 | name: test_product_10
+ADDED: id: 11 | name: test_product_11
+ADDED: id: 12 | name: test_product_12
+ADDED: id: 13 | name: test_product_13
+ADDED: id: 14 | name: test_product_14
+ADDED: id: 15 | name: test_product_15
+ADDED: id: 16 | name: test_product_16
+ADDED: id: 17 | name: test_product_17
+ADDED: id: 18 | name: test_product_18
+ADDED: id: 19 | name: test_product_19
+ADDED: id: 20 | name: test_product_20
+ADDED: id: 21 | name: test_product_21
+ADDED: id: 22 | name: test_product_22
+ADDED: id: 23 | name: test_product_23
+ADDED: id: 24 | name: test_product_24
+ADDED: id: 25 | name: test_product_25
+ADDED: id: 26 | name: test_product_26
+ADDED: id: 27 | name: test_product_27
+ADDED: id: 28 | name: test_product_28
+ADDED: id: 29 | name: test_product_29
+ADDED: id: 30 | name: test_product_30
+ADDED: id: 31 | name: test_product_31
+ADDED: id: 32 | name: test_product_32
+ADDED: id: 33 | name: test_product_33
+ADDED: id: 34 | name: test_product_34
+ADDED: id: 35 | name: test_product_35
+ADDED: id: 36 | name: test_product_36
+ADDED: id: 37 | name: test_product_37
+ADDED: id: 38 | name: test_product_38
+ADDED: id: 39 | name: test_product_39
+ADDED: id: 40 | name: test_product_40
+ADDED: id: 41 | name: test_product_41
+ADDED: id: 42 | name: test_product_42
+ADDED: id: 43 | name: test_product_43
+ADDED: id: 44 | name: test_product_44
+ADDED: id: 45 | name: test_product_45
+ADDED: id: 46 | name: test_product_46
+ADDED: id: 47 | name: test_product_47
+ADDED: id: 48 | name: test_product_48
+ADDED: id: 49 | name: test_product_49
+ADDED: id: 50 | name: test_product_50
+ADDED: id: 51 | name: test_product_51
+ADDED: id: 52 | name: test_product_52
+ADDED: id: 53 | name: test_product_53
+ADDED: id: 54 | name: test_product_54
+ADDED: id: 55 | name: test_product_55
+ADDED: id: 56 | name: test_product_56
+ADDED: id: 57 | name: test_product_57
+ADDED: id: 58 | name: test_product_58
+ADDED: id: 59 | name: test_product_59
+ADDED: id: 60 | name: test_product_60
+ADDED: id: 61 | name: test_product_61
+ADDED: id: 62 | name: test_product_62
+ADDED: id: 63 | name: test_product_63
+ADDED: id: 64 | name: test_product_64
+ADDED: id: 65 | name: test_product_65
+ADDED: id: 66 | name: test_product_66
+ADDED: id: 67 | name: test_product_67
+ADDED: id: 68 | name: test_product_68
+ADDED: id: 69 | name: test_product_69
+ADDED: id: 70 | name: test_product_70
+ADDED: id: 71 | name: test_product_71
+ADDED: id: 72 | name: test_product_72
+ADDED: id: 73 | name: test_product_73
+ADDED: id: 74 | name: test_product_74
+ADDED: id: 75 | name: test_product_75
+ADDED: id: 76 | name: test_product_76
+ADDED: id: 77 | name: test_product_77
+ADDED: id: 78 | name: test_product_78
+ADDED: id: 79 | name: test_product_79
+ADDED: id: 80 | name: test_product_80
+ADDED: id: 81 | name: test_product_81
+ADDED: id: 82 | name: test_product_82
+ADDED: id: 83 | name: test_product_83
+ADDED: id: 84 | name: test_product_84
+ADDED: id: 85 | name: test_product_85
+ADDED: id: 86 | name: test_product_86
+ADDED: id: 87 | name: test_product_87
+ADDED: id: 88 | name: test_product_88
+ADDED: id: 89 | name: test_product_89
+ADDED: id: 90 | name: test_product_90
+ADDED: id: 91 | name: test_product_91
+ADDED: id: 92 | name: test_product_92
+ADDED: id: 93 | name: test_product_93
+ADDED: id: 94 | name: test_product_94
+ADDED: id: 95 | name: test_product_95
+ADDED: id: 96 | name: test_product_96
+ADDED: id: 97 | name: test_product_97
+ADDED: id: 98 | name: test_product_98
+ADDED: id: 99 | name: test_product_99
+ADDED: id: 100 | name: test_product_100
+ADDED: id: 101 | name: test_product_101
+ADDED: id: 102 | name: test_product_102
+ADDED: id: 103 | name: test_product_103
+ADDED: id: 104 | name: test_product_104
+ADDED: id: 105 | name: test_product_105
+ADDED: id: 106 | name: test_product_106
+ADDED: id: 107 | name: test_product_107
+ADDED: id: 108 | name: test_product_108
+ADDED: id: 109 | name: test_product_109
+ADDED: id: 110 | name: test_product_110
+ADDED: id: 111 | name: test_product_111
+ADDED: id: 112 | name: test_product_112
+ADDED: id: 113 | name: test_product_113
+ADDED: id: 114 | name: test_product_114
+ADDED: id: 115 | name: test_product_115
+ADDED: id: 116 | name: test_product_116
+ADDED: id: 117 | name: test_product_117
+ADDED: id: 118 | name: test_product_118
+ADDED: id: 119 | name: test_product_119
+ADDED: id: 120 | name: test_product_120
+ADDED: id: 121 | name: test_product_121
+ADDED: id: 122 | name: test_product_122
+ADDED: id: 123 | name: test_product_123
+ADDED: id: 124 | name: test_product_124
+ADDED: id: 125 | name: test_product_125
+ADDED: id: 126 | name: test_product_126
+ADDED: id: 127 | name: test_product_127
+ADDED: id: 128 | name: test_product_128
+ADDED: id: 129 | name: test_product_129
+ADDED: id: 130 | name: test_product_130
+ADDED: id: 131 | name: test_product_131
+ADDED: id: 132 | name: test_product_132
+ADDED: id: 133 | name: test_product_133
+ADDED: id: 134 | name: test_product_134
+ADDED: id: 135 | name: test_product_135
+ADDED: id: 136 | name: test_product_136
+ADDED: id: 137 | name: test_product_137
+ADDED: id: 138 | name: test_product_138
+ADDED: id: 139 | name: test_product_139
+ADDED: id: 140 | name: test_product_140
+ADDED: id: 141 | name: test_product_141
+ADDED: id: 142 | name: test_product_142
+ADDED: id: 143 | name: test_product_143
+ADDED: id: 144 | name: test_product_144
+ADDED: id: 145 | name: test_product_145
+ADDED: id: 146 | name: test_product_146
+ADDED: id: 147 | name: test_product_147
+ADDED: id: 148 | name: test_product_148
+ADDED: id: 149 | name: test_product_149
+ADDED: id: 150 | name: test_product_150
+ADDED: id: 151 | name: test_product_151
+ADDED: id: 152 | name: test_product_152
+ADDED: id: 153 | name: test_product_153
+ADDED: id: 154 | name: test_product_154
+ADDED: id: 155 | name: test_product_155
+ADDED: id: 156 | name: test_product_156
+ADDED: id: 157 | name: test_product_157
+ADDED: id: 158 | name: test_product_158
+ADDED: id: 159 | name: test_product_159
+ADDED: id: 160 | name: test_product_160
+ADDED: id: 161 | name: test_product_161
+ADDED: id: 162 | name: test_product_162
+ADDED: id: 163 | name: test_product_163
+ADDED: id: 164 | name: test_product_164
+ADDED: id: 165 | name: test_product_165
+ADDED: id: 166 | name: test_product_166
+ADDED: id: 167 | name: test_product_167
+ADDED: id: 168 | name: test_product_168
+ADDED: id: 169 | name: test_product_169
+ADDED: id: 170 | name: test_product_170
+ADDED: id: 171 | name: test_product_171
+ADDED: id: 172 | name: test_product_172
+ADDED: id: 173 | name: test_product_173
+ADDED: id: 174 | name: test_product_174
+ADDED: id: 175 | name: test_product_175
+ADDED: id: 176 | name: test_product_176
+ADDED: id: 177 | name: test_product_177
+ADDED: id: 178 | name: test_product_178
+ADDED: id: 179 | name: test_product_179
+ADDED: id: 180 | name: test_product_180
+ADDED: id: 181 | name: test_product_181
+ADDED: id: 182 | name: test_product_182
+ADDED: id: 183 | name: test_product_183
+ADDED: id: 184 | name: test_product_184
+ADDED: id: 185 | name: test_product_185
+ADDED: id: 186 | name: test_product_186
+ADDED: id: 187 | name: test_product_187
+ADDED: id: 188 | name: test_product_188
+ADDED: id: 189 | name: test_product_189
+ADDED: id: 190 | name: test_product_190
+PRINTING THE SOLD: id: 0 | name: test_product_0
+ADDED: id: 191 | name: test_product_191
+PRINTING THE SOLD: id: 1 | name: test_product_1
+ADDED: id: 192 | name: test_product_192
+PRINTING THE SOLD: id: 2 | name: test_product_2
+ADDED: id: 193 | name: test_product_193
+PRINTING THE SOLD: id: 3 | name: test_product_3
+ADDED: id: 194 | name: test_product_194
+PRINTING THE SOLD: id: 4 | name: test_product_4
+ADDED: id: 195 | name: test_product_195
+PRINTING THE SOLD: id: 5 | name: test_product_5
+ADDED: id: 196 | name: test_product_196
+PRINTING THE SOLD: id: 6 | name: test_product_6
+ADDED: id: 197 | name: test_product_197
+PRINTING THE SOLD: id: 7 | name: test_product_7
+ADDED: id: 198 | name: test_product_198
+PRINTING THE SOLD: id: 8 | name: test_product_8
+ADDED: id: 199 | name: test_product_199
+PRINTING THE SOLD: id: 9 | name: test_product_9
+ADDED: id: 200 | name: test_product_200
+PRINTING THE SOLD: id: 10 | name: test_product_10
+ADDED: id: 201 | name: test_product_201
+PRINTING THE SOLD: id: 11 | name: test_product_11
+ADDED: id: 202 | name: test_product_202
+PRINTING THE SOLD: id: 12 | name: test_product_12
+ADDED: id: 203 | name: test_product_203
+PRINTING THE SOLD: id: 13 | name: test_product_13
+ADDED: id: 204 | name: test_product_204
+PRINTING THE SOLD: id: 14 | name: test_product_14
+ADDED: id: 205 | name: test_product_205
+PRINTING THE SOLD: id: 15 | name: test_product_15
+ADDED: id: 206 | name: test_product_206
+PRINTING THE SOLD: id: 16 | name: test_product_16
+ADDED: id: 207 | name: test_product_207
+PRINTING THE SOLD: id: 17 | name: test_product_17
+ADDED: id: 208 | name: test_product_208
+PRINTING THE SOLD: id: 18 | name: test_product_18
+ADDED: id: 209 | name: test_product_209
+PRINTING THE SOLD: id: 19 | name: test_product_19
+ADDED: id: 210 | name: test_product_210
+PRINTING THE SOLD: id: 20 | name: test_product_20
+ADDED: id: 211 | name: test_product_211
+PRINTING THE SOLD: id: 21 | name: test_product_21
+ADDED: id: 212 | name: test_product_212
+PRINTING THE SOLD: id: 22 | name: test_product_22
+ADDED: id: 213 | name: test_product_213
+PRINTING THE SOLD: id: 23 | name: test_product_23
+ADDED: id: 214 | name: test_product_214
+PRINTING THE SOLD: id: 24 | name: test_product_24
+ADDED: id: 215 | name: test_product_215
+PRINTING THE SOLD: id: 25 | name: test_product_25
+ADDED: id: 216 | name: test_product_216
+PRINTING THE SOLD: id: 26 | name: test_product_26
+ADDED: id: 217 | name: test_product_217
+PRINTING THE SOLD: id: 27 | name: test_product_27
+ADDED: id: 218 | name: test_product_218
+PRINTING THE SOLD: id: 28 | name: test_product_28
+ADDED: id: 219 | name: test_product_219
+PRINTING THE SOLD: id: 29 | name: test_product_29
+ADDED: id: 220 | name: test_product_220
+PRINTING THE SOLD: id: 30 | name: test_product_30
+ADDED: id: 221 | name: test_product_221
+PRINTING THE SOLD: id: 31 | name: test_product_31
+ADDED: id: 222 | name: test_product_222
+PRINTING THE SOLD: id: 32 | name: test_product_32
+PRINTING THE SOLD: id: 33 | name: test_product_33
+PRINTING THE SOLD: id: 34 | name: test_product_34
+ADDED: id: 223 | name: test_product_223
+PRINTING THE SOLD: id: 35 | name: test_product_35
+ADDED: id: 224 | name: test_product_224
+PRINTING THE SOLD: id: 36 | name: test_product_36
+ADDED: id: 225 | name: test_product_225
+PRINTING THE SOLD: id: 37 | name: test_product_37
+ADDED: id: 226 | name: test_product_226
+PRINTING THE SOLD: id: 38 | name: test_product_38
+ADDED: id: 227 | name: test_product_227
+PRINTING THE SOLD: id: 39 | name: test_product_39
+ADDED: id: 228 | name: test_product_228
+PRINTING THE SOLD: id: 40 | name: test_product_40
+ADDED: id: 229 | name: test_product_229
+PRINTING THE SOLD: id: 41 | name: test_product_41
+ADDED: id: 230 | name: test_product_230
+PRINTING THE SOLD: id: 42 | name: test_product_42
+ADDED: id: 231 | name: test_product_231
+PRINTING THE SOLD: id: 43 | name: test_product_43
+ADDED: id: 232 | name: test_product_232
+PRINTING THE SOLD: id: 44 | name: test_product_44
+ADDED: id: 233 | name: test_product_233
+PRINTING THE SOLD: id: 45 | name: test_product_45
+ADDED: id: 234 | name: test_product_234
+PRINTING THE SOLD: id: 46 | name: test_product_46
+ADDED: id: 235 | name: test_product_235
+PRINTING THE SOLD: id: 47 | name: test_product_47
+ADDED: id: 236 | name: test_product_236
+PRINTING THE SOLD: id: 48 | name: test_product_48
+ADDED: id: 237 | name: test_product_237
+PRINTING THE SOLD: id: 49 | name: test_product_49
+ADDED: id: 238 | name: test_product_238
+PRINTING THE SOLD: id: 50 | name: test_product_50
+ADDED: id: 239 | name: test_product_239
+PRINTING THE SOLD: id: 51 | name: test_product_51
+ADDED: id: 240 | name: test_product_240
+PRINTING THE SOLD: id: 52 | name: test_product_52
+ADDED: id: 241 | name: test_product_241
+PRINTING THE SOLD: id: 53 | name: test_product_53
+ADDED: id: 242 | name: test_product_242
+PRINTING THE SOLD: id: 54 | name: test_product_54
+ADDED: id: 243 | name: test_product_243
+PRINTING THE SOLD: id: 55 | name: test_product_55
+ADDED: id: 244 | name: test_product_244
+PRINTING THE SOLD: id: 56 | name: test_product_56
+ADDED: id: 245 | name: test_product_245
+PRINTING THE SOLD: id: 57 | name: test_product_57
+ADDED: id: 246 | name: test_product_246
+PRINTING THE SOLD: id: 58 | name: test_product_58
+ADDED: id: 247 | name: test_product_247
+PRINTING THE SOLD: id: 59 | name: test_product_59
+ADDED: id: 248 | name: test_product_248
+PRINTING THE SOLD: id: 60 | name: test_product_60
+ADDED: id: 249 | name: test_product_249
+PRINTING THE SOLD: id: 61 | name: test_product_61
+ADDED: id: 250 | name: test_product_250
+PRINTING THE SOLD: id: 62 | name: test_product_62
+ADDED: id: 251 | name: test_product_251
+PRINTING THE SOLD: id: 63 | name: test_product_63
+ADDED: id: 252 | name: test_product_252
+PRINTING THE SOLD: id: 64 | name: test_product_64
+ADDED: id: 253 | name: test_product_253
+PRINTING THE SOLD: id: 65 | name: test_product_65
+PRINTING THE SOLD: id: 66 | name: test_product_66
+ADDED: id: 254 | name: test_product_254
+ADDED: id: 255 | name: test_product_255
+PRINTING THE SOLD: id: 67 | name: test_product_67
+PRINTING THE SOLD: id: 68 | name: test_product_68
+ADDED: id: 256 | name: test_product_256
+PRINTING THE SOLD: id: 69 | name: test_product_69
+ADDED: id: 257 | name: test_product_257
+ADDED: id: 258 | name: test_product_258
+PRINTING THE SOLD: id: 70 | name: test_product_70
+ADDED: id: 259 | name: test_product_259
+PRINTING THE SOLD: id: 71 | name: test_product_71
+PRINTING THE SOLD: id: 72 | name: test_product_72
+ADDED: id: 260 | name: test_product_260
+PRINTING THE SOLD: id: 73 | name: test_product_73
+ADDED: id: 261 | name: test_product_261
+PRINTING THE SOLD: id: 74 | name: test_product_74
+ADDED: id: 262 | name: test_product_262
+PRINTING THE SOLD: id: 75 | name: test_product_75
+ADDED: id: 263 | name: test_product_263
+PRINTING THE SOLD: id: 76 | name: test_product_76
+ADDED: id: 264 | name: test_product_264
+PRINTING THE SOLD: id: 77 | name: test_product_77
+ADDED: id: 265 | name: test_product_265
+PRINTING THE SOLD: id: 78 | name: test_product_78
+ADDED: id: 266 | name: test_product_266
+PRINTING THE SOLD: id: 79 | name: test_product_79
+ADDED: id: 267 | name: test_product_267
+PRINTING THE SOLD: id: 80 | name: test_product_80
+ADDED: id: 268 | name: test_product_268
+ADDED: id: 269 | name: test_product_269
+PRINTING THE SOLD: id: 81 | name: test_product_81
+ADDED: id: 270 | name: test_product_270
+PRINTING THE SOLD: id: 82 | name: test_product_82
+ADDED: id: 271 | name: test_product_271
+PRINTING THE SOLD: id: 83 | name: test_product_83
+PRINTING THE SOLD: id: 84 | name: test_product_84
+ADDED: id: 272 | name: test_product_272
+PRINTING THE SOLD: id: 85 | name: test_product_85
+ADDED: id: 273 | name: test_product_273
+ADDED: id: 274 | name: test_product_274
+PRINTING THE SOLD: id: 86 | name: test_product_86
+PRINTING THE SOLD: id: 87 | name: test_product_87
+ADDED: id: 275 | name: test_product_275
+PRINTING THE SOLD: id: 88 | name: test_product_88
+ADDED: id: 276 | name: test_product_276
+ADDED: id: 277 | name: test_product_277
+PRINTING THE SOLD: id: 89 | name: test_product_89
+PRINTING THE SOLD: id: 90 | name: test_product_90
+ADDED: id: 278 | name: test_product_278
+PRINTING THE SOLD: id: 91 | name: test_product_91
+ADDED: id: 279 | name: test_product_279
+PRINTING THE SOLD: id: 92 | name: test_product_92
+ADDED: id: 280 | name: test_product_280
+PRINTING THE SOLD: id: 93 | name: test_product_93
+ADDED: id: 281 | name: test_product_281
+PRINTING THE SOLD: id: 94 | name: test_product_94
+ADDED: id: 282 | name: test_product_282
+PRINTING THE SOLD: id: 95 | name: test_product_95
+ADDED: id: 283 | name: test_product_283
+ADDED: id: 284 | name: test_product_284
+PRINTING THE SOLD: id: 96 | name: test_product_96
+PRINTING THE SOLD: id: 97 | name: test_product_97
+ADDED: id: 285 | name: test_product_285
+ADDED: id: 286 | name: test_product_286
+PRINTING THE SOLD: id: 98 | name: test_product_98
+PRINTING THE SOLD: id: 99 | name: test_product_99
+ADDED: id: 287 | name: test_product_287
+ADDED: id: 288 | name: test_product_288
+PRINTING THE SOLD: id: 100 | name: test_product_100
+PRINTING THE SOLD: id: 101 | name: test_product_101
+ADDED: id: 289 | name: test_product_289
+PRINTING THE SOLD: id: 102 | name: test_product_102
+ADDED: id: 290 | name: test_product_290
+PRINTING THE SOLD: id: 103 | name: test_product_103
+ADDED: id: 291 | name: test_product_291
+ADDED: id: 292 | name: test_product_292
+PRINTING THE SOLD: id: 104 | name: test_product_104
+ADDED: id: 293 | name: test_product_293
+PRINTING THE SOLD: id: 105 | name: test_product_105
+PRINTING THE SOLD: id: 106 | name: test_product_106
+ADDED: id: 294 | name: test_product_294
+ADDED: id: 295 | name: test_product_295
+PRINTING THE SOLD: id: 107 | name: test_product_107
+ADDED: id: 296 | name: test_product_296
+PRINTING THE SOLD: id: 108 | name: test_product_108
+ADDED: id: 297 | name: test_product_297
+PRINTING THE SOLD: id: 109 | name: test_product_109
+ADDED: id: 298 | name: test_product_298
+PRINTING THE SOLD: id: 110 | name: test_product_110
+ADDED: id: 299 | name: test_product_299
+PRINTING THE SOLD: id: 111 | name: test_product_111
+PRINTING THE SOLD: id: 112 | name: test_product_112
+PRINTING THE SOLD: id: 113 | name: test_product_113
+PRINTING THE SOLD: id: 114 | name: test_product_114
+PRINTING THE SOLD: id: 115 | name: test_product_115
+PRINTING THE SOLD: id: 116 | name: test_product_116
+PRINTING THE SOLD: id: 117 | name: test_product_117
+PRINTING THE SOLD: id: 118 | name: test_product_118
+PRINTING THE SOLD: id: 119 | name: test_product_119
+PRINTING THE SOLD: id: 120 | name: test_product_120
+PRINTING THE SOLD: id: 121 | name: test_product_121
+PRINTING THE SOLD: id: 122 | name: test_product_122
+PRINTING THE SOLD: id: 123 | name: test_product_123
+PRINTING THE SOLD: id: 124 | name: test_product_124
+PRINTING THE SOLD: id: 125 | name: test_product_125
+PRINTING THE SOLD: id: 126 | name: test_product_126
+PRINTING THE SOLD: id: 127 | name: test_product_127
+PRINTING THE SOLD: id: 128 | name: test_product_128
+PRINTING THE SOLD: id: 129 | name: test_product_129
+PRINTING THE SOLD: id: 130 | name: test_product_130
+PRINTING THE SOLD: id: 131 | name: test_product_131
+PRINTING THE SOLD: id: 132 | name: test_product_132
+PRINTING THE SOLD: id: 133 | name: test_product_133
+PRINTING THE SOLD: id: 134 | name: test_product_134
+PRINTING THE SOLD: id: 135 | name: test_product_135
+PRINTING THE SOLD: id: 136 | name: test_product_136
+PRINTING THE SOLD: id: 137 | name: test_product_137
+PRINTING THE SOLD: id: 138 | name: test_product_138
+PRINTING THE SOLD: id: 139 | name: test_product_139
+PRINTING THE SOLD: id: 140 | name: test_product_140
+PRINTING THE SOLD: id: 141 | name: test_product_141
+PRINTING THE SOLD: id: 142 | name: test_product_142
+PRINTING THE SOLD: id: 143 | name: test_product_143
+PRINTING THE SOLD: id: 144 | name: test_product_144
+PRINTING THE SOLD: id: 145 | name: test_product_145
+PRINTING THE SOLD: id: 146 | name: test_product_146
+PRINTING THE SOLD: id: 147 | name: test_product_147
+PRINTING THE SOLD: id: 148 | name: test_product_148
+PRINTING THE SOLD: id: 149 | name: test_product_149
+PRINTING THE SOLD: id: 150 | name: test_product_150
+PRINTING THE SOLD: id: 151 | name: test_product_151
+PRINTING THE SOLD: id: 152 | name: test_product_152
+PRINTING THE SOLD: id: 153 | name: test_product_153
+PRINTING THE SOLD: id: 154 | name: test_product_154
+PRINTING THE SOLD: id: 155 | name: test_product_155
+PRINTING THE SOLD: id: 156 | name: test_product_156
+PRINTING THE SOLD: id: 157 | name: test_product_157
+PRINTING THE SOLD: id: 158 | name: test_product_158
+PRINTING THE SOLD: id: 159 | name: test_product_159
+PRINTING THE SOLD: id: 160 | name: test_product_160
+PRINTING THE SOLD: id: 161 | name: test_product_161
+PRINTING THE SOLD: id: 162 | name: test_product_162
+PRINTING THE SOLD: id: 163 | name: test_product_163
+PRINTING THE SOLD: id: 164 | name: test_product_164
+PRINTING THE SOLD: id: 165 | name: test_product_165
+PRINTING THE SOLD: id: 166 | name: test_product_166
+PRINTING THE SOLD: id: 167 | name: test_product_167
+PRINTING THE SOLD: id: 168 | name: test_product_168
+PRINTING THE SOLD: id: 169 | name: test_product_169
+PRINTING THE SOLD: id: 170 | name: test_product_170
+PRINTING THE SOLD: id: 171 | name: test_product_171
+PRINTING THE SOLD: id: 172 | name: test_product_172
+PRINTING THE SOLD: id: 173 | name: test_product_173
+PRINTING THE SOLD: id: 174 | name: test_product_174
+PRINTING THE SOLD: id: 175 | name: test_product_175
+PRINTING THE SOLD: id: 176 | name: test_product_176
+PRINTING THE SOLD: id: 177 | name: test_product_177
+PRINTING THE SOLD: id: 178 | name: test_product_178
+PRINTING THE SOLD: id: 179 | name: test_product_179
+PRINTING THE SOLD: id: 180 | name: test_product_180
+PRINTING THE SOLD: id: 181 | name: test_product_181
+PRINTING THE SOLD: id: 182 | name: test_product_182
+PRINTING THE SOLD: id: 183 | name: test_product_183
+PRINTING THE SOLD: id: 184 | name: test_product_184
+PRINTING THE SOLD: id: 185 | name: test_product_185
+PRINTING THE SOLD: id: 186 | name: test_product_186
+PRINTING THE SOLD: id: 187 | name: test_product_187
+PRINTING THE SOLD: id: 188 | name: test_product_188
+PRINTING THE SOLD: id: 189 | name: test_product_189
+PRINTING THE SOLD: id: 190 | name: test_product_190
+
+
+    Lesson 5
+New Question: 0
+ANSWERED Question: 0
+No Question to Answer... Waiting for producer to get questions
+New Question: 1
+New Question: 2
+New Question: 3
+New Question: 4
+ANSWERED Question: 1
+ANSWERED Question: 2
+ANSWERED Question: 3
+ANSWERED Question: 4
+No Question to Answer... Waiting for producer to get questions
+New Question: 5
+New Question: 6
+New Question: 7
+New Question: 8
+New Question: 9
+ANSWERED Question: 5
+ANSWERED Question: 6
+ANSWERED Question: 7
+ANSWERED Question: 8
+ANSWERED Question: 9
+No Question to Answer... Waiting for producer to get questions
+New Question: 10
+ANSWERED Question: 10
+New Question: 11
+New Question: 12
+New Question: 13
+New Question: 14
+New Question: 15
+ANSWERED Question: 11
+ANSWERED Question: 12
+ANSWERED Question: 13
+New Question: 16
+ANSWERED Question: 14
+New Question: 17
+ANSWERED Question: 15
+New Question: 18
+New Question: 19
+New Question: 20
+
+    Lesson 6
+Got new Question: 0
+Got new Question: 1
+Got new Question: 2
+Got new Question: 3
+Got new Question: 4
+Got new Question: 5
+Got new Question: 6
+ANSWERED QUESTION: 0
+ANSWERED QUESTION: 1
+Got new Question: 7
+ANSWERED QUESTION: 2
+Got new Question: 8
+ANSWERED QUESTION: 3
+Got new Question: 9
+ANSWERED QUESTION: 4
+Got new Question: 10
+ANSWERED QUESTION: 5
+Got new Question: 11
+ANSWERED QUESTION: 6
+Got new Question: 12
+ANSWERED QUESTION: 7
+Got new Question: 13
+ANSWERED QUESTION: 8
+Got new Question: 14
+ANSWERED QUESTION: 9
+Got new Question: 15
+ANSWERED QUESTION: 10
+Got new Question: 16
+ANSWERED QUESTION: 11
+Got new Question: 17
+ANSWERED QUESTION: 12
+Got new Question: 18
+ANSWERED QUESTION: 13
+Got new Question: 19
+ANSWERED QUESTION: 14
+Got new Question: 20
+ANSWERED QUESTION: 15
+Got new Question: 21
+ANSWERED QUESTION: 16
+Got new Question: 22
+Got new Question: 23
+ANSWERED QUESTION: 17
+ANSWERED QUESTION: 18
+Got new Question: 24
+ANSWERED QUESTION: 19
+Got new Question: 25
+ANSWERED QUESTION: 20
+Got new Question: 26
+Got new Question: 27
+ANSWERED QUESTION: 21
+ANSWERED QUESTION: 22
+Got new Question: 28
+ANSWERED QUESTION: 23
+Got new Question: 29
+Got new Question: 30
+ANSWERED QUESTION: 24
+ANSWERED QUESTION: 25
+Got new Question: 31
+ANSWERED QUESTION: 26
+Got new Question: 32
+ANSWERED QUESTION: 27
+Got new Question: 33
+
+    Lesson 7
+pool-1-thread-2 [RECEIVED] Message = 3
+pool-1-thread-1 [RECEIVED] Message = 2
+pool-1-thread-2 (DONE) Processing Message = 3
+pool-1-thread-1 (DONE) Processing Message = 2
+pool-1-thread-1 [RECEIVED] Message = 4
+pool-1-thread-2 [RECEIVED] Message = 5
+pool-1-thread-1 (DONE) Processing Message = 4
+pool-1-thread-2 (DONE) Processing Message = 5
+submitted all tasks...

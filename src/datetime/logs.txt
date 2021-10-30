@@ -1,0 +1,67 @@
+    Lesson 1 (CreatingDateAndTime)
+2021-10-29
+17:27:39.889
+2021-10-29T17:27:39.889
+2017-01-01
+10:10
+2017-01-01T10:10
+Fri Oct 29 17:27:39 EEST 2021
+Thu Jan 01 17:27:39 EET 2015
+
+    Lesson 2 (UsingDateAndTime)
+2030-01-10
+2030-03-15
+10:30
+12:50
+2030-03-15T12:50
+2030-03-24T02:50
+Mon Mar 01 18:28:08 EET 2021
+2010-04-01
+
+    Lesson 3 (UsingPeriod)
+Need to clean the cage on date = 2017-01-01
+Need to clean the cage on date = 2017-01-15
+Need to clean the cage on date = 2017-01-29
+Need to clean the cage on date = 2017-02-12
+Need to clean the cage on date = 2017-02-26
+Need to clean the cage on date = 2017-03-12
+Need to clean the cage on date = 2017-03-26
+Need to clean the cage on date = 2017-04-09
+Need to clean the cage on date = 2017-04-23
+2017-01-15
+2021-11-12T19:08:50.042
+P1Y1M
+
+    Lesson 4 (FormattingDateTime)
+2010-04-15
+2010-04-15T11:22:33
+11:22:33
+15.04.10
+15 квіт. 2010
+квітня 15, 2010, 11:22
+квіт. 15, 2010, 11:22
+04 15, 2010, 11:22
+4 15, 2010, 11:22
+07:26
+
+    Lesson 5 (ParsingDateTime)
+2010-02-15
+11:33
+02 15 2010
+2010-02-15
+05 05 2010
+2010-05-05
+2010-10-10
+05 05 2010 == 05 05 2010
+
+    Lesson 6 (QuestionExamples)
+21 червня 2012
+21 червня 2012
+21 травня 2012
+21 травня 2012
+
+2020-04-30
+
+11:22
+
+10.05.15 11:22

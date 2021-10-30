@@ -1,0 +1,33 @@
+    Lesson 1
+10
+200
+45
+1000
+
+    Lesson 2
+Vehicle{make='Honda', model='Accord', price=12000, fourWDrive=false}
+Vehicle{make='Toyota', model='Camry', price=12000, fourWDrive=false}
+Vehicle{make='Jeep', model='Wrangler', price=25000, fourWDrive=true}
+Lion
+Cat
+Dog
+Bird
+
+    Lesson 3
+Animal{name='Dog', age=12}
+Animal{name='Kangaroo', age=24}
+Animal{name='Bird', age=3}
+Animal{name='Cat', age=8}
+
+    Lesson 4
+[Employee{name='Peter', salary=4000, department='IT'}, Employee{name='Mike', salary=3500, department='Accounting'}, Employee{name='Paul', salary=3000, department='Admin'}, Employee{name='Angel', salary=2000, department='Maint'}]
+
+    Lesson 5
+Brave
+ready to face and endure danger or pain; showing courage.
+Brilliant
+xxxxxxxxxxxxxxx
+Confidence
+the state of feeling certain about the truth of something.
+Joy
+a feeling of great pleasure and happiness.
